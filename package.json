@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "this is app for my dad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tkhanh",
+  "license": "ISC",
+  "dependencies": {
+    "copy-dir": "^0.3.0",
+    "diskspace": "^2.0.0"
+  }
+}
